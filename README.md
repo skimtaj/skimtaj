@@ -1,5 +1,5 @@
 <h1 align="center">Hi there 👋, I'm Sk Imtaj</h1>
-<h3 align="center">🚀 A Professional Node.js Developer from India</h3>
+<h3 align="center"> A Professional Node.js Developer from India</h3>
 
 <p align="center">
   <img src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEi2L7r6gt7JNGk7dPBLUeDS_ZQWFVBAGHjPOUEYVANHrQfyKefTBz2wArS1e9XuikijTrSwHInICwnU7zTBSWXd8q4WwGS_7aOAtxkOGu7PI9awJVX3eBRsUwSZ-rCVBcocdAjS3oZprncJohz43kmRc6kpcWrLTc_S6pL0J2OTDfG2WZLQ93_zapqMvZET/w640-h182/Add%20a%20heading%20(20).png" alt="Banner" width="100%" />
@@ -34,7 +34,6 @@
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=skimtaj&show_icons=true&theme=radical" height="150" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=skimtaj&layout=compact&theme=radical" height="150" />
 </p>
 
