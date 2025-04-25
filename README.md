@@ -12,8 +12,11 @@
 🎯 Passionate backend developer specialized in building efficient, scalable, and secure Node.js applications.  
 
 💡 Enjoy solving complex backend problems and transforming them into smart APIs.  
+
 💻 Love to write clean, maintainable, and optimized code.  
+
 🌱 Currently learning advanced JavaScript and exploring frontend frameworks.  
+
 📬 Reach me at: **skimtaj779@gmail.com**
 
 ---
